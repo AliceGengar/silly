@@ -1,4 +1,4 @@
-const converted = {
+
   "@import url('https://l-ratio.github.io/OperaGXTheme/release/main.css')": true,
   ":root": {
     "--background": "url('https://i.imgur.com/C4B6C7w.png')",
@@ -49,4 +49,4 @@ const converted = {
     "--chat-transparency-color": "var(--dark-background-color)",
     "--memberlist-transparency-color": "var(--dark-background-color)"
   }
-}
+
